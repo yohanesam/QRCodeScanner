@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Porseni Apps - 1.0</string>
+    <string name="search_result">Hasil Pencarian</string>
+    <string name="ok">Ok</string>
+    <string name="not_found">Maaf, Mahasiswa yang anda Cari Tidak Dapat Ditemukan atau Tidak Terdaftar</string>
+</resources>
