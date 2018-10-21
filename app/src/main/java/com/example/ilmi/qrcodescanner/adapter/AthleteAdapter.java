@@ -15,7 +15,8 @@ import com.example.ilmi.qrcodescanner.model.Athlete;
 import java.util.ArrayList;
 
 /**
- * Created by ILMI on 8/15/2018.
+ * @author : yohanesam
+ * Created by yohanesam on 8/15/2018.
  */
 
 public class AthleteAdapter extends RecyclerView.Adapter<AthleteAdapter.AthleteViewHolder> {
