@@ -25,6 +25,11 @@ import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 
+/**
+ * @author : yohanesam
+ * Created by yohanesam on 8/15/2018.
+ */
+
 public class AthleteDesc extends AppCompatActivity {
 
     public static String EXTRA_NAME = "extra_name";
