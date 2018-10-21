@@ -5,6 +5,11 @@ import android.support.v7.app.AppCompatActivity;
 
 import com.example.ilmi.qrcodescanner.R;
 
+/**
+ * @author : yohanesam
+ * Created by yohanesam on 8/15/2018.
+ */
+
 public class AthleteNotFound extends AppCompatActivity {
 
     @Override
