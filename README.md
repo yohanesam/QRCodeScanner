@@ -1,3 +1,3 @@
 # Porseni QR Code Reader
 
-App for verifing attendance of athlete
+App for verifying attendance of athlete
